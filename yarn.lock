@@ -9072,11 +9072,12 @@ node-gyp@^7.1.0:
     tar "^6.0.2"
     which "^2.0.2"
 
-node-html-parser@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.npmjs.org/node-html-parser/-/node-html-parser-2.2.1.tgz#6507a8658810d1612890a8ddd534e01b2f97e07e"
-  integrity sha512-Vccqb62t6t7DkMVwqPQgb0NWO+gUMMDm+1X3LzqbtXLqjilCTtUYTlniKk08yuA1zIhEFVzu/dozpqs5KZbRFQ==
+node-html-parser@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.npmjs.org/node-html-parser/-/node-html-parser-3.1.0.tgz#2630dcd654b1eaff370284f49d96ddfc67a4094a"
+  integrity sha512-BelrM4a7Pz7zppZoeryUWVjdfalyaLzuwkYMC5GKloEaF/01QGjWzmVL67H11pbWLq/R4NmRT3dPfVLOGwlp5w==
   dependencies:
+    css-select "^3.1.2"
     he "1.2.0"
 
 node-int64@^0.4.0:
